@@ -43,7 +43,7 @@ body p {
 .c1 {
   width: 100%;
   height: 800px;
-  background: url("/assets/img/newport.png?h=bfed66042ec3785af3cbc7d60980d350");
+  background: url("./newport.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -56,7 +56,7 @@ body p {
 .c2 {
   width: 100%;
   height: 800px;
-  background: url("/assets/img/ac3.jpg?h=757021d58b0ee0463c104c32db874d50");
+  background: url("./ac3.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -69,7 +69,7 @@ body p {
 .c3 {
   width: 100%;
   height: 800px;
-  background: url("/assets/img/ac2.jpg?h=e6214e3218a1f9fc0af8dd3957caf364");
+  background: url("./ac2.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -149,7 +149,7 @@ body p {
 .mimenu {
   width: 100%;
   height: 900px;
-  background: url("/assets/img/2018-11-29.jpg?h=8194f6e440092013fa12fea66949deca");
+  background: url("./2018-11-29.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -224,7 +224,7 @@ iframe {
 .mimenu2 {
   width: 100%;
   height: 900px;
-  background: url("/assets/img/2018-11-29.jpg?h=8194f6e440092013fa12fea66949deca");
+  background: url("./2018-11-29.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
